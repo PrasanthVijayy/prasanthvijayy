@@ -121,13 +121,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanthvijayy&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src
-
-="https://github-readme-streak-stats.herokuapp.com/?user=prasanthvijayy&" alt="GitHub Streak" />
-</p>
