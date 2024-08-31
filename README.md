@@ -13,15 +13,7 @@
   🚀 **Projects:** Working on scalable web scraping solutions using AWS Lambda and API Gateway. Creating dynamic file management systems with S3 and implementing robust authentication mechanisms. Let's connect and collaborate on exciting projects!
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=prasanthvijayy&label=Profile%20views&color=0e75b6&style=flat" alt="prasanthvijayy" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prasanthvijayy" alt="prasanthvijayy" />
-  </a>
-</p>
 
 <h3 align="left">🔭 I’m currently working on</h3>
 <p align="left">
