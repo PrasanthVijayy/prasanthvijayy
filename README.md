@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💡 **Interests:** Developing RESTful APIs and integrating with both SQL and NoSQL databases. Exploring AWS services for scalable solutions and serverless architectures. Enhancing security with authentication methods like OAuth and OpenID.
+  💡 <b>Intersets</b>Interests: Developing RESTful APIs and integrating with both SQL and NoSQL databases. Exploring AWS services for scalable solutions and serverless architectures. Enhancing security with authentication methods like OAuth and OpenID.
 </p>
 
 <p align="center">
