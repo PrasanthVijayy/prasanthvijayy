@@ -41,11 +41,11 @@
   Backend development with Node.js, Express.js, and database management using SQL and NoSQL.
 </p>
 
-<!-- Contact Section -->
-<h3 align="left" style="margin: 30px 0 10px;">📫 How to reach me</h3>
-<p align="left" style="margin-left: 20px;">
-  <a href="mailto:vkprasanth06@gmail.com">vkprasanth06@gmail.com</a>
-</p>
+<!-- Contact Section 
+<h3 align="left" style="margin: 30px 0 10px;">
+📫 How to reach me</h3> <p align="left" style="margin-left: 20px;">  
+<a href="mailto:vkprasanth06@gmail.com">vkprasanth06@gmail.com</a>
+</p> -->
 
 <!-- Fun Fact Section -->
 <h3 align="left" style="margin: 30px 0 10px;">⚡ Fun fact</h3>
