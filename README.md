@@ -35,7 +35,8 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
