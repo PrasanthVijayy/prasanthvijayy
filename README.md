@@ -58,7 +58,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:vkprasanth06@gmail.com" target="_blank">
+<a href="mailto:vkprasanth06@gmail.com" >
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 
