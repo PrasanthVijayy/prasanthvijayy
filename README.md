@@ -18,43 +18,43 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 ## My Skill Set  
 
 ### Frontend  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" height="50" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS3" height="50" /></a>
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
 ### Backend  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" height="50" /></a>
-    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" height="50" /></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="50" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" height="50" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" height="50" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" height="50" /></a>
-    <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GraphQL-Dark.svg" alt="GraphQL" height="50" /></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="Redis" height="50" /></a>
-    <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" height="50" /></a>
-    <a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jest.svg" alt="Jest" height="50" /></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" height="50" /></a>
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GraphQL-Dark.svg" alt="GraphQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redis-Dark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RabbitMQ-Dark.svg" alt="RabbitMQ" height="50" /></a>
+<a href="https://jestjs.io/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jest.svg" alt="Jest" height="50" /></a>    
+<a href="https://www.postman.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" height="50" /></a>  
 </div>
 
 ### DevOps  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" height="50" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" height="50" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" height="50" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="Firebase" height="50" /></a>
-    <a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Nginx.svg" alt="Nginx" height="50" /></a>
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" alt="Firebase" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Nginx.svg" alt="Nginx" height="50" /></a>
 </div>
 
 ### Frameworks  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" height="50" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" height="50" /></a>
-    <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" height="50" /></a>
-     <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sequelize-Dark.svg" alt="Sequelize" height="50" /></a>
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" height="50" /></a>
+<a href="https://expressjs.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" height="50" /></a>
+    <a href="https://www.djangoproject.com/" target="_blank" style="display: inline-block; margin: 15px;"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" height="50" /></a>
+    <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sequelize-Dark.svg" alt="Sequelize" height="50" /></a>
 </div>
 
 
