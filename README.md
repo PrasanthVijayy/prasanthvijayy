@@ -64,7 +64,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 </div>
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
+<a href="https://github.com/PrasanthVijayy">
   <img src="https://visitcount.itsvg.in/api?id=prasanthvijayy&label=Profile%20Views&pretty=false" />
 </a>
 </div>
