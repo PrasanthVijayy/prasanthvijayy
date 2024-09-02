@@ -36,7 +36,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 <a href="https://graphql.org/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 5px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
@@ -53,12 +53,13 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 <a href="https://github.com/PrasanthVijayy" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/PrasanthVijayy" target="_blank">
-<img src="
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://linkedin.com/in/prasanth-vijay/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:vkprasanth06@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
 </a>
 
 ## GitHub Stats  
