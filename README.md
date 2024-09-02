@@ -54,7 +54,9 @@ A passionate software developer with hands-on experience in Node.js, Python, and
     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" height="50" /></a>
     <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" height="50" /></a>
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" alt="Django" height="50" /></a>
+     <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sequelize-Dark.svg" alt="Sequelize" height="50" /></a>
 </div>
+
 
 
 
