@@ -58,13 +58,13 @@ A passionate software developer with hands-on experience in Node.js, Python, and
      <a href="https://sequelize.org/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Sequelize-Dark.svg" alt="Sequelize" height="50" /></a>
 </div>
 
-## Connect with me 
+## Connect with me
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
-    <a href="https://github.com/PrasanthVijayy" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" 
-                                                                    alt="github" height="50" /></a>
-    <a href="https://linkedin.com/in/prasanth-vijay/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" height="50" /></a>
-    <a href="mailto:vkprasanth06@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="gmail" height="50" /></a>
+    <a href="https://github.com/PrasanthVijayy" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="Github" height="50" /></a>
+    <a href="https://linkedin.com/in/prasanth-vijay/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" height="50" /></a>
+    <a href="mailto:vkprasanth06@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" height="50" /></a>
 </div>
+
 
 ## GitHub Stats  
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
