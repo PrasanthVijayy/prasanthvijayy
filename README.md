@@ -68,8 +68,8 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 
 ## GitHub Stats  
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=prasanthvijayy&show_icons=true&count_private=true&hide_border=true" style="width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthvijayy&hide_border=true&layout=compact" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanthvijayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanthvijayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
