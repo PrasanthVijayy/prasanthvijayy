@@ -72,6 +72,9 @@ A passionate software developer with hands-on experience in Node.js, Python, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasanthvijayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasanthvijayy&theme=radical&hide_border=true" alt="GitHub Stats Graph" />
+
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prasanthvijayy&theme=onedark" alt="Top Languages Graph"/>
+   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prasanthvijayy&theme=onedark" alt="Top Languages by Commit"/>
  
 </div>
 
