@@ -1,3 +1,5 @@
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A917F7&center=true&width=435&lines=Systems+Design+Enthusiast;Open+Source+Contributor;Low-Level+Design+Learner" alt="Typing SVG" /></a></div>
+
 ### <div align="center">Hey 👋, I'm Prasanth Vijay!👨‍💻 
 
 A passionate software developer with hands-on experience in Node.js, Python, and SQL. I enjoy designing and building scalable web applications, managing databases, and solving complex technical problems.
