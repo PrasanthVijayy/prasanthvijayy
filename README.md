@@ -6,7 +6,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 
 💡 Interests: Developing RESTful APIs and integrating with both SQL and NoSQL databases. Exploring AWS services for scalable solutions and serverless architectures. Enhancing security with authentication methods like OAuth and OpenID.
 
-🚀 Projects: Worked on projects to bring efficient and scalablility. Created projects with JWT, RBAC, LDAP protocol etc.
+🚀 Projects: Worked on projects to bring efficient and scalablility. Created projects with JWT, RBAC, SSO, LDAP protocol etc.
 
 😎 I specialize in building robust backends that do all the heavy lifting for the web and mobile app. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.</div>  
 
