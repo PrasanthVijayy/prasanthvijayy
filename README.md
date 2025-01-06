@@ -15,8 +15,13 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 - 🌱 I’m currently learning Low-Level Design (LLD).  
 - ❓ Ask me about: APIs, Backend Development, and Database Management.  
 - 🤝 I’m looking to collaborate on web development projects.  
-- ⚡ Fun fact: My best code is written between midnight and 3 AM (no bugs allowed)!  
+- ⚡ Fun fact: My best code is written between midnight and 3 AM (no bugs allowed)!
 
+## My LeetCode Badges:
+<p align="center">
+  <a href="https://github.com/PrasanthVijayy" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode" height="150" width="150"/>
+  </a>
+</p>
 
 ## My Skill Set  
 
