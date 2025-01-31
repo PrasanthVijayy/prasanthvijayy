@@ -20,6 +20,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 ## My LeetCode Badges:
 <p align="center">
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode" height="150" width="150"/>
+  <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="LeetCode" height="150" width="150"/>
   </a>
 </p>
 
