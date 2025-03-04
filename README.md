@@ -17,7 +17,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
 - 🤝 I’m looking to collaborate on web development projects.  
 - ⚡ Fun fact: My best code is written between midnight and 3 AM (no bugs allowed)!
 
-## My LeetCode Stat's:
+## Relationship with LeetCode 🤗:
 <p align="center">
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="LeetCode" height="150" width="150"/>
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="LeetCode" height="150" width="150"/>
@@ -30,7 +30,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
   <img src="https://leetcard.jacoblin.cool/prasanth06?theme=radical&font=Rajdhani&ext=heatmap" alt="LeetCode Stats">
 </p>
     
-## My Skill Set  
+## Skill Set 🏆  
 ### Frontend  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px;">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" alt="HTML5" height="50" /></a>
