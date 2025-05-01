@@ -23,7 +23,7 @@ A passionate software developer with hands-on experience in Node.js, Python, and
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="LeetCode" height="150" width="150"/>
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode" height="150" width="150"/>
   <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="LeetCode" height="150" width="150"/>
-   
+  <a href="https://leetcode.com/u/Prasanth06/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode" height="150" width="150"/>   
   </a>
 </p>
 <p align="center">
